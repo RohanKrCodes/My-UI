@@ -25,7 +25,7 @@
 html , body {
     width: 100%;
     height: auto;
-    background: var(--light-grayish-blue);
+    background: #C1F7DC;
 }
 
 body {
@@ -67,6 +67,7 @@ img {
 
 .card-main {
     padding: 42px 32px 0;
+    background-color: #FFFDF7;
 }
 
 .card-content > p {
